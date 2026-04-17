@@ -4,7 +4,6 @@ import com.akhan.quiz.quizapp.DTO.AuthRequest;
 import com.akhan.quiz.quizapp.Entity.User;
 import com.akhan.quiz.quizapp.Service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
